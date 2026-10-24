@@ -141,11 +141,11 @@ Research isn't always about having the answer. Sometimes it's about learning how
 - Working with multidisciplinary teams on AI and embedded-system ideas.
 - Learning to communicate technical findings through documentation, presentations, and research discussions.
 
-**GitHub Activity**
 
-![GitHub Contribution Graph](https://ghchart.rshah.org/itsceyuu)
+### GitHub Activity
 
----
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itsceyuu&theme=github_dark)
+
 
 ## VI. References & Correspondence
 
