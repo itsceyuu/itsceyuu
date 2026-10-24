@@ -25,9 +25,7 @@ Information Systems · Universitas Brawijaya
 
 This is an ongoing collection of questions, datasets, experiments, and things I couldn't resist trying to build.
 
-I'm Grace, an Information Systems undergraduate with a growing interest in research, data science, and intelligent systems. I enjoy exploring how things work, finding patterns in data, and investigating how technology can address meaningful problems across different industries. 
-
-Some investigations become models. Others become prototypes. A few simply lead to more questions.
+I'm Grace, an Information Systems undergraduate with a growing interest in research, data science, and intelligent systems. I enjoy exploring how things work, finding patterns in data, and investigating how technology can address meaningful problems across different industries. Some investigations become models. Others become prototypes. A few simply lead to more questions.
 
 **Keywords—** Curiosity, Data Analytics, Applied Research, Machine Learning, Intelligent Systems, Prototyping.
 
@@ -35,15 +33,7 @@ Some investigations become models. Others become prototypes. A few simply lead t
 
 ## I. Introduction
 
-> *"What if we could understand this better through data?"*
-
-That's usually where it starts.
-
-I enjoy the process of turning an interesting question into something I can investigate: reading papers, exploring datasets, testing hypotheses, building models, and occasionally discovering that my initial assumptions were completely wrong.
-
-My interests aren't limited to one domain. I'm particularly drawn to problems where data, computation, and real-world needs intersect. But if you want to know though, I'm particularly drawn to mental health and human psychology as domains where data science and artificial intelligence can contribute to a deeper understanding of human behavior, emotional well-being, and psychological processes.
-
-Whether it's understanding human behavior, exploring healthcare applications, or designing efficient intelligent systems, I like learning enough about a problem to ask better questions — and hopefully build something useful along the way.
+I enjoy the process of turning an interesting question into something I can investigate: reading papers, exploring datasets, testing hypotheses, building models, and occasionally discovering that my initial assumptions were completely wrong. My interests aren't limited to one domain. I'm particularly drawn to problems where data, computation, and real-world needs intersect. But if you want to know though, I'm particularly drawn to mental health and human psychology as domains where data science and artificial intelligence can contribute to a deeper understanding of human behavior, emotional well-being, and psychological processes.
 
 ---
 
@@ -55,18 +45,19 @@ My interests are continuously evolving, but most of my curiosity currently lives
 |:---|:---|
 | **Applied Machine Learning** | Translating real-world problems into data-driven solutions |
 | **Data Science & Analytics** | Finding meaningful patterns, relationships, and insights in data |
+| **Natural Language Processing** | Exploring language understanding, conversational AI, and computational approaches to human communication |
 | **Computer Vision** | Understanding visual information and human behavior |
-| **Healthcare AI** | Exploring intelligent systems for physiological monitoring and health-related applications |
+| **Healthcare & Mental Health AI** | Investigating intelligent systems for physiological monitoring, psychological processes, and mental well-being |
 | **Edge Intelligence** | Making machine learning practical on resource-constrained devices |
-| **Human-Centered AI** | Understanding how intelligent systems can be useful, reliable, and responsible |
+| **Human-Centered & Responsible AI** | Developing intelligent systems that are useful to human contexts |
 
-I'm also interested in exploring applications across industries, particularly healthcare, biotechnology, consumer technology, and other data-rich domains.
+I'm also interested in exploring applications across industries, particularly **mental healthcare, biotechnology, consumer technology, and other data-rich domains**, where interdisciplinary research can turn meaningful questions into practical solutions.
 
 ---
 
 ## III. Selected Investigations
 
-*A collection of research questions, datasets, experiments, and ideas that somehow became projects.*
+*A collection of research questions, experiments, and ideas that somehow became projects.*
 
 ### [01] PURE — Pulse Understanding & Reliability Engine
 
@@ -82,24 +73,7 @@ I'm also interested in exploring applications across industries, particularly he
 
 ---
 
-### [02] The Usage LLM in Client Psychological Graph (CPG) Making
-
-**Domain:** Mental Health · Natural Language Processing · Computational Psychology
-
-**Research Question:** How can psychological processes and behavioral patterns be represented computationally to support more coherent and psychologically grounded AI systems?
-
-**Approach:** Exploring Indonesian-language synthetic counseling data, psychological process annotations, and structured representations of client psychological states and their relationships across multi-turn interactions.
-
-**Status:** Ongoing Research
-
-**Repository:** Private · Research in Progress
-
-*Research artifacts are currently private while the investigation and evaluation are ongoing.*
-
-
----
-
-### [03] Understanding Engagement Through Visual Behavior
+### [02] Understanding Engagement Through Visual Behavior
 
 **Domain:** Computer Vision · Behavioral Analysis · Applied Machine Learning
 
@@ -114,7 +88,7 @@ I'm also interested in exploring applications across industries, particularly he
 *Research materials and implementation are currently maintained in a private repository.*
 ---
 
-### [04] OCR-Based Document Intelligence
+### [03] OCR-Based Document Intelligence
 
 **Domain:** Computer Vision · Optical Character Recognition · Applied AI
 
@@ -126,11 +100,11 @@ I'm also interested in exploring applications across industries, particularly he
 
 **Contributions:** Project coordination · AI research · Technical planning
 
-**Repository:** To be linked
+**Repository:** [itsceyuu/ocr-dsa-bccbesokajalah](https://github.com/itsceyuu/ocr-dsa-bccbesokajalah)
 
 ---
 
-### [05] Retail Sales ELT — From Raw Transactions to Business Insights
+### [04] Retail Sales ELT — From Raw Transactions to Business Insights
 
 **Domain:** Data Engineering · Business Intelligence · Predictive Analytics
 
@@ -144,13 +118,7 @@ I'm also interested in exploring applications across industries, particularly he
 
 ---
 
-*Some investigations are publicly available, while others remain private during active research. Not every question has an answer yet — and that's part of the process.*
-
----
-
 ## IV. Methods & Tools
-
-*The instruments behind the investigations.*
 
 My work spans data exploration, statistical analysis, machine learning, visualization, and experimental prototyping. Depending on the problem, I enjoy moving between understanding the data, developing models, and translating findings into something useful.
 
@@ -162,51 +130,11 @@ My work spans data exploration, statistical analysis, machine learning, visualiz
 | **Development & Experimentation** | Jupyter Notebook, Google Colab, Kaggle, GitHub|
 | **Research & Documentation** | LaTeX, Overleaf, Markdown |
 
-### Research Methodology
-
-My approach generally follows an iterative research workflow:
-
-```text
-Problem Identification
-        |
-        v
-Literature Review & Domain Understanding
-        |
-        v
-Data Collection & Exploration
-        |
-        v
-Hypothesis Formulation
-        |
-        v
-Data Preprocessing & Feature Engineering
-        |
-        v
-Modeling / Statistical Analysis
-        |
-        v
-Evaluation & Interpretation
-        |
-        v
-Visualization & Communication
-        |
-        v
-Prototype / Deployment
-        |
-        +----> New Questions & Iterations
-```
-
-*Sometimes the most interesting finding is discovering that the data disagrees with the original hypothesis.*
-
----
+--- 
 
 ## V. Findings & Contributions
 
-Research isn't always about having the answer. Sometimes it's about learning how to ask a better question.
-
-Beyond personal projects, I've been involved in machine learning education, collaborative technical projects, and research-oriented activities.
-
-Some experiences along the way:
+Research isn't always about having the answer. Sometimes it's about learning how to ask a better question. Beyond personal projects, I've been involved in machine learning education, collaborative technical projects, and research-oriented activities. Some experiences along the way:
 
 - Exploring data science and machine learning through collaborative projects and competitions.
 - Mentoring and sharing machine learning concepts with other learners.
@@ -215,38 +143,11 @@ Some experiences along the way:
 
 **GitHub Activity**
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itsceyuu&show_icons=true&hide_border=true)
+![GitHub Contribution Graph](https://ghchart.rshah.org/itsceyuu)
 
 ---
 
-## VI. Ongoing Research & Future Directions
-
-*There are still far too many interesting questions.*
-
-### Current Investigation
-
-**[01] Client Psychological Graph (CPG) — Psychological Modeling & AI**
-
-`Status: Ongoing Research`
-
-Exploring how psychological processes and behavioral patterns can be represented through structured knowledge graphs to support more coherent and psychologically grounded AI systems. This research focuses on developing Indonesian-language synthetic counseling data, investigating psychological process annotations, and evaluating how Client Psychological Graphs (CPGs) can support consistent psychological representations in multi-turn interactions.
-
-**Research Areas:** Natural Language Processing · Knowledge Graphs · Computational Psychology · Responsible AI
-
-### Future Research Directions
-
-Beyond my current investigations, I'm particularly interested in exploring:
-
-- **Human-Centered & Responsible AI** — Developing intelligent systems that are reliable, interpretable, and sensitive to human contexts.
-- **Multimodal Learning** — Understanding complex real-world phenomena through multiple data modalities.
-- **Data-Driven Industry Research** — Applying data science and machine learning to challenges across healthcare, biotechnology, and other emerging industries.
-- **Efficient & Edge AI** — Exploring lightweight machine learning systems for resource-constrained environments.
-
-I'm always curious about new datasets, unfamiliar domains, interesting research questions, and opportunities to collaborate.
-
----
-
-## VII. References & Correspondence
+## VI. References & Correspondence
 
 **Research Archive:** [github.com/itsceyuu](https://github.com/itsceyuu)
 
